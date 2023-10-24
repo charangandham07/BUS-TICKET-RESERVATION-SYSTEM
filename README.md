@@ -27,8 +27,8 @@ int main()
 {
 		system("cls");
 	printf("\t\t|           BUS TICKET RESERVATION SYSTEM           |\n");
-    printf("\t\t|               K.S.S.H.KISHORE                      |\n");
-    printf("\t\t|                          RA2111032010043           |\n");
+    printf("\t\t|               NAGA SAI CHARAN                         |\n");
+    printf("\t\t|                          RA2111028010183            |\n");
     printf("\t\t------------------------------------------------------\n");
     printf("\t\t---------------press any key to continue--------------\n");
     printf("\t\t------------------------------------------------------\n");
